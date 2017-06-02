@@ -1,5 +1,4 @@
 require "bundler/setup"
-require "landing/careers/challenge"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
